@@ -1,0 +1,25 @@
+Test Cases for "Yoga Class with Omnify" :
+========================================
+
+
+1. Verify that the admin can successfully create a new class with all the required features, including Title, Description, Class Color, Image, Class Details, Class Schedule, and Booking Window.
+
+2. Verify that the admin can add multiple locations for the class, including online and offline options.
+
+3. Verify that the admin can select a trainer for the class and the trainer's information is displayed on the class page.
+
+4. Verify that the admin can choose between a free or paid service type for the class and the price is displayed correctly on the class page.
+
+5. Verify that the admin can add a class schedule with accurate day of the week, start date and time, and end date and time.
+
+6. Verify that the admin can set a booking window for the class with accurate open and close dates.
+
+7. Verify that the end customer can view the class details, including title, description, class color, image, location, trainer, service type, class schedule, and booking window.
+
+8. Verify that the end customer can purchase the class, if it is a paid service type, through the website.
+
+9. Verify that the end customer can see the accurate booking window, including the open and close dates.
+
+10. Verify that the system enforces the booking window restrictions, such as not allowing bookings before the booking window opens or after it closes.
+
+
